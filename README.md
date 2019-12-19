@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="img/AbiBird_Lockup_KYellow.svg" height="350"><br>
+  <img src="img/AbiBird_Lockup_KYellow.svg" height=“150"><br>
 </div>
 
 #  IoT sensor data visualisation
 ## Elder people activity sensor data analysis
 Data analysis coming from IOT sensor AbiSensor from company [AbiBird](https://abibird.com.au)
-
-Elder people monitoring IoT sensor data visualisation.
 
 Sensor data from **AbiSensor** IoT devices is analysed in this repository. **AbiSensor** primary function is to track activity of older person in their house, alerting if something abnormal happens.
 
