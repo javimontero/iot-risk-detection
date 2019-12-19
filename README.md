@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/AbiBird_Lockup_KYellow-555.png” <br>
+  <img src="img/AbiBird_Lockup_KYellow-555.png”> <br>
 </div>
 
 #  IoT sensor data visualisation
