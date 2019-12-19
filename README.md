@@ -15,7 +15,7 @@ The dataset consist of RAW anonymised data coming from 6 different **AbiSensor**
 The analysis shows different behaviour patterns like bed time, naps, inference of visits, activity evolution across the week, etc. 
 
 ## Feature aggregation
-**Weather data**
-How does weather affect the activity of elders? I have incorporated weather data from Meteosat API weather stations.
-**Daylight duration**
+### Weather data
+How does weather affect the activity of elders? I have incorporated weather data from [Meteosat API](https://api.meteostat.net) stations.
+### Daylight duration
 Does the daylight duration affect the people activity. Taking into account the location and date I calculate the astronomical ephemeris regarding sunset and sunrise times, to get the total light hours.
