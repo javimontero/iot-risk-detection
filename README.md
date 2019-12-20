@@ -11,6 +11,9 @@ Sensor data from **AbiSensor** IoT devices is analysed in this repository. **Abi
 The dataset consist of RAW anonymised data coming from 6 different **AbiSensor** devices (from company [AbiBird](https://abibird.com.au)). The sensors are installed in 3 different houses. Each house has 2 sensors in different locations.
 
 The analysis shows different behaviour patterns like bed time, naps, inference of visits, activity evolution across the week, etc. 
+![Activity per weekday](img/activity_per_weekday.png)
+Activity calendar map
+![Calendar map](img/calmap.png)
 
 ## Feature aggregation
 ### Weather data
